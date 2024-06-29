@@ -1,11 +1,11 @@
 # Library-Management
 
 Overview
-This project is a Library Management System developed using Spring Boot, MySQL, Hibernate, and Spring Data JPA. It provides functionalities to manage books and departments within a library.
+This project is a Library Management System developed using Spring Boot, H2, Hibernate, and Spring Data JPA. It provides functionalities to manage books and departments within a library.
 
 Technologies Used
 Spring Boot: Framework for creating standalone, production-grade Spring-based applications.
-MySQL: Relational database management system used for data storage.
+Database used= H2 database for storing data
 Hibernate: Object-relational mapping framework for managing database interactions.
 Spring Data JPA: Simplifies data access layer implementation based on JPA.
 Features
